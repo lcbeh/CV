@@ -26,7 +26,7 @@ My interest in digital technology had brought me to join Makers Academy, the lea
 
 ### Work Experience
 
-##### Patel Taylor, London (August 2006 - June 2016)
+#### Patel Taylor, London (August 2006 - June 2016)
 
 
 **List of on-site and built projects**
