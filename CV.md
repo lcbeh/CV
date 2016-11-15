@@ -17,9 +17,9 @@ My interest in digital technology had brought me to join Makers Academy, the lea
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine
+- RSpec, Jasmine
 
- **University of Brighton (September 2004 - July 2006)**
+**University of Brighton (September 2004 - July 2006)**
 - First-class honours in BA Interior Architecture
 - John and Heather Lomax Award for outstanding design scheme which demonstrates flair and imagination
 
@@ -42,7 +42,7 @@ Designer role with a focus in design, structure and services coordination, compl
 Project designer during technical design/ on site and architectural assistant during scheme design.
 
 
-**2012-2014: Essex University Library and Students Centre, Essex ** - RIBA National Award
+**2012-2014: Essex University Library and Students Centre, Essex** - RIBA National Award
 
 Architectural assistant in scheme design and production of technical drawings (pre-construction phase).
 
