@@ -1,5 +1,6 @@
 ## Li Chien Beh
 
+
 #### Junior Full Stack Developer
 
 I am a junior developer with a background in architecture. Having spent some time designing and building our physical environment, I now look to creating digital products and solutions that can bring value to all types of business at global scale.
@@ -40,9 +41,7 @@ My interest in digital technology had brought me to join Makers Academy, the lea
 - Final project received John and Heather Lomax Award for outstanding design scheme which demonstrated flair and imagination
 
 
-
 ## Work Experience
-
 
 #### Patel Taylor, London (August 2006 - June 2016)
 
@@ -55,12 +54,15 @@ My interest in digital technology had brought me to join Makers Academy, the lea
 Designer role with a focus in design, structure and services coordination, compliance and internal technical design package documentation. Also learnt and produced documentation in Revit Architecture during the fast tracked programme.
 
 
+
 **2010-2014: Central Foundation Girls’ School, London**
 
 Project designer during technical design/ on site and architectural assistant during scheme design.
 
 
+
 **2012-2014: Essex University Library and Students Centre, Essex - RIBA National Award**
+
 
 Architectural assistant in scheme design and production of technical drawings (pre-construction phase).
 
@@ -68,6 +70,7 @@ Architectural assistant in scheme design and production of technical drawings (p
 **2008-2012: Athletes Village Plots N03+N04 for London Olympic Games 2012**
 
 Architectural assistant - key team member in delivering the project from planning to construction phase
+
 
 
 ## Other Skills
