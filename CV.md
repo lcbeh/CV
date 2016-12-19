@@ -3,26 +3,37 @@
 
 #### Junior Full Stack Developer
 
-I am a junior developer with a background in architecture. Having spent some time designing and building our physical environment, I now look to creating digital products and solutions that can bring value to all types of business at global scale.
+I am a junior developer with a background in architecture. I discovered the joy of coding earlier this year and joined Makers Academy in September to learn how to build software.
 
+I can write test-driven code, able to learn new languages and technologies quickly and is familiar with the agile process and techniques of pair programming, test driven development and object oriented design.
 
-Upon graduating from Makers Academy in December 2016, I will be looking for a full stack developer role where I can develop my programming knowledge and be a part of the team that delivers  meaningful and delightful products. I love good design and making ideas into reality.
+I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that cares about writing software and delivering great products.
 
 ## Skills
 
 #### Self-driven and Passionate Learner
 
-I have learnt a number of new technologies in short amount of time at Makers Academy. I am a **reflective thinker, open to learning in different ways and see constructive feedbacks as invaluable gems** that help me grow in my learning.  I enjoy revisiting old projects to **refactor code and improve  the design** with new knowledge I acquire.
+I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build simple apps with technologies that I am introduced. Below are examples of TDD apps built over in my weekends.
+
+| Project | Description | Technology | Testing |
+| ---     | ---         | ---        | ---     |
+| [Rock Paper Scissors](https://github.com/lcbeh/rps-challenge) | Classic game | Ruby, Sinatra, HTML, CSS | RSpec Capybara|
+| [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|
+
 
 #### Detail-Orientated
 
-In my role as an architectural designer, I had been involved in coordinating the integration of design, structure and services in technical design. Due to my **detailed-orientated and investigative** nature, I had often discovered potential issues early which effectively lowered our risk and cost as issues were dealt with before construction phase.
+In my role as an architectural designer, I had been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-orientated and investigative nature, I had often discovered potential issues early which lowered our risk and cost as issues were dealt with before construction phase.
 
 This skill helps me greatly in learning new language and writing code. At Makers Academy, the feedbacks I have received from pair programming were that I have strong attention to detail and good at debugging.
 
+#### Individual and Teamwork Skills
 
-## Projects
+I can work well independently and in teams. In the final project, we have directed our learning and strategy to build a music collaboration website. Great communication was maintained in the team, we were clear on the features we need to build and delivered them at the end of each day. Following the XP values, we evaluate our progress constantly, respect individual perspectives and contributions and adapt to changes when required.
 
+| Project | Description | Code Links | Technology | Testing |
+| ---     | ---         | ---        | ---     |
+| Ensemble | A Platform for Music Collaboration (final project - 2 weeks in a team of five) | [Ensemble on Heroku](https://ensemble-app.herokuapp.com/) [Ensemble on Github](https://github.com/ensemble-team/ensemble)| Ruby, Rails, PostgreSQL, ActiveRecord, HTML, CSS, Bootstrap, AWS | RSpec Capybara Factory Girl|
 
 
 ## Education
