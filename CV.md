@@ -13,12 +13,13 @@ I am looking for a full stack role where I can develop my programming skills and
 
 #### Self-driven and Passionate Learner
 
-I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build simple apps with technologies that I am introduced. Below are examples of TDD apps built over in my weekends.
+I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build simple apps with technologies that I am new to. Below are examples of TDD apps built over in my weekends.    
 
 | Project | Description | Technology | Testing |
 | ---     | ---         | ---        | ---     |
 | [Rock Paper Scissors](https://github.com/lcbeh/rps-challenge) | Classic game | Ruby, Sinatra, HTML, CSS | RSpec Capybara|
-| [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|
+| [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|  
+
 
 
 #### Detail-Orientated
@@ -32,8 +33,8 @@ This skill helps me greatly in learning new language and writing code. At Makers
 I can work well independently and in teams. In the final project, we have directed our learning and strategy to build a music collaboration website. Great communication was maintained in the team, we were clear on the features we need to build and delivered them at the end of each day. Following the XP values, we evaluate our progress constantly, respect individual perspectives and contributions and adapt to changes when required.
 
 | Project | Description | Code Links | Technology | Testing |
-| ---     | ---         | ---        | ---     |
-| Ensemble | A Platform for Music Collaboration (final project - 2 weeks in a team of five) | [Ensemble on Heroku](https://ensemble-app.herokuapp.com/) [Ensemble on Github](https://github.com/ensemble-team/ensemble)| Ruby, Rails, PostgreSQL, ActiveRecord, HTML, CSS, Bootstrap, AWS | RSpec Capybara Factory Girl|
+| ---     | ---         | ---        | ---     | --- |
+| Ensemble | A Platform for Music Collaboration (final project - 2 weeks in a team of five) | [Ensemble on Heroku](https://ensemble-app.herokuapp.com/)  [Ensemble on Github](https://github.com/ensemble-team/ensemble)| Ruby, Rails, PostgreSQL, ActiveRecord, HTML, CSS, Bootstrap, AWS | RSpec Capybara Factory Girl|
 
 
 ## Education
