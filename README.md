@@ -13,7 +13,7 @@ I am looking for a full stack role where I can develop my programming skills and
 
 #### Self-driven and Passionate Learner
 
-I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build simple apps with technologies that I am new to. Below are examples of TDD apps built over in my weekends.    
+I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built in my weekends.    
 
 | Project | Description | Technology | Testing |
 | ---     | ---         | ---        | ---     |
@@ -24,13 +24,13 @@ I have learnt a number of new technologies in short amount of time at Makers Aca
 
 #### Detail-Orientated
 
-In my role as an architectural designer, I had been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-orientated and investigative nature, I had often discovered potential issues early which lowered our risk and cost as issues were dealt with before construction phase.
+In my role as an architectural designer, I had been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-orientated and investigative nature, I had often discovered potential issues early on, which helped to avoid preventable defects.
 
-This skill helps me greatly in learning new language and writing code. At Makers Academy, the feedbacks I have received from pair programming were that I have strong attention to detail and good at debugging.
+This skill helps me greatly in learning new language and writing code and fosters appreciation for well-designed code. At Makers Academy, the feedbacks I have received from pair programming were that I have strong attention to detail and good at debugging.
 
 #### Individual and Teamwork Skills
 
-I can work well independently and in teams. In the final project, we have directed our learning and strategy to build a music collaboration website. Great communication was maintained in the team, we were clear on the features we need to build and delivered them at the end of each day. Following the XP values, we evaluate our progress constantly, respect individual perspectives and contributions and adapt to changes when required.
+I can work well independently and in teams. In the final project, we have directed our learning and strategy to build a music collaboration website. We had great communication which included daily planning and retro session. Each team member was clear about the daily targets and worked hard to reach them. Following the XP values, we evaluate our progress constantly, respect individual perspectives and adapt to changes when required.
 
 | Project | Description | Code Links | Technology | Testing |
 | ---     | ---         | ---        | ---     | --- |
@@ -91,4 +91,4 @@ Architectural assistant - key team member in delivering the project from plannin
 
 
 ### Interests
-Spiritual practice, concept design, watercolour paintings
+Spiritual practice, concept design and drawing
