@@ -5,36 +5,37 @@
 
 I am a junior developer with a background in architecture. I discovered the joy of coding earlier this year and joined Makers Academy in September to learn how to build software.
 
-I can write test-driven code, able to learn new languages and technologies quickly and is familiar with the agile process and techniques of pair programming, test driven development and object oriented design.
+I can write test-driven web applications and learn new languages and technologies quickly. I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that cares about writing good software and delivering great products.
 
-I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that cares about writing software and delivering great products.
+**Tech Skills: Ruby, Rails, Sinatra, JavaScript, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
 
 ## Skills
 
 #### Self-driven and Passionate Learner
 
-I have learnt a number of new technologies in short amount of time at Makers Academy. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built in my weekends.    
+I have learnt a number of new technologies in a short period of time at Makers Academy. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built on my weekends.    
 
 | Project | Description | Technology | Testing |
 | ---     | ---         | ---        | ---     |
 | [Rock Paper Scissors](https://github.com/lcbeh/rps-challenge) | Classic game | Ruby, Sinatra, HTML, CSS | RSpec Capybara|
 | [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|  
 
-
+For more projects, see my [GitHub](https://github.com/lcbeh)
 
 #### Detail-Orientated
 
-In my role as an architectural designer, I had been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-orientated and investigative nature, I had often discovered potential issues early on, which helped to avoid preventable defects.
-
-This skill helps me greatly in learning new language and writing code and fosters appreciation for well-designed code. At Makers Academy, the feedbacks I have received from pair programming were that I have strong attention to detail and good at debugging.
+In my role as an architectural designer, I have been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-oriented and investigative nature, I have often spotted potential issues early on, which helped to avoid preventable defects. At Makers Academy, the feedback I have received were that I have strong attention to detail and good at debugging.
 
 #### Individual and Teamwork Skills
 
-I can work well independently and in teams. In the final project, we have directed our learning and strategy to build a music collaboration website. We had great communication which included daily planning and retro session. Each team member was clear about the daily targets and worked hard to reach them. Following the XP values, we evaluate our progress constantly, respect individual perspectives and adapt to changes when required.
+I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as project designer in a school project.
+
+For the final project at Makers Academy, in a team of five, we directed our learning and strategy at building Ensemble, a music collaboration website in two weeks.
+
 
 | Project | Description | Code Links | Technology | Testing |
 | ---     | ---         | ---        | ---     | --- |
-| Ensemble | A Platform for Music Collaboration (final project - 2 weeks in a team of five) | [Ensemble on Heroku](https://ensemble-app.herokuapp.com/)  [Ensemble on Github](https://github.com/ensemble-team/ensemble)| Ruby, Rails, PostgreSQL, ActiveRecord, HTML, CSS, Bootstrap, AWS | RSpec Capybara Factory Girl|
+| Ensemble | A Platform for Music Collaboration | [Ensemble on Heroku](https://ensemble-app.herokuapp.com/)  [Ensemble on Github](https://github.com/ensemble-team/ensemble)| Ruby, Rails, PostgreSQL, ActiveRecord, HTML, CSS, Bootstrap, AWS | RSpec Capybara Factory Girl|
 
 
 ## Education
@@ -42,10 +43,10 @@ I can work well independently and in teams. In the final project, we have direct
 
 My interest in digital technology had brought me to join Makers Academy, the leading web bootcamp in Europe which excels at shaping enthusiastic learners into thoughtful developers who care about software craftsmanship. During the last 16 weeks,  we focused on:
 
-- Software Craftmanship
-- Object Oriented Design, SOLID principles and TDD
-- Independent learner and problem-solver
-- Ruby, Rails, Javascript, Node.js, RSpec, Jasmine
+- Agile methodologies
+- Test driven development and writing clean code
+- Object Oriented Design
+- Pair programming, XP values
 
 
 #### University of Brighton (September 2004 - July 2006)
@@ -69,7 +70,7 @@ Designer role with a focus in design, structure and services coordination, compl
 
 **2010-2014: Central Foundation Girls’ School, London**
 
-Project designer during technical design/ on site and architectural assistant during scheme design.
+Project designer during technical design and on site. Architectural assistant during scheme design.
 
 
 
@@ -88,7 +89,3 @@ Architectural assistant - key team member in delivering the project from plannin
 ## Other Skills
 - Adobe Photoshop and InDesign
 - CAD: Autodesk Revit and Microstation
-
-
-### Interests
-Spiritual practice, concept design and drawing
