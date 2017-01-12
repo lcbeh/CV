@@ -7,7 +7,7 @@ I am a junior developer with a background in architecture. I discovered the joy 
 
 I can write test-driven web applications and learn new languages and technologies quickly. I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that cares about writing good software and delivering great products.
 
-**Tech Skills: Ruby, Rails, Sinatra, JavaScript, Node.js, PostgreSQL, RSpec, Jasmine, HTML and CSS**
+**Tech Skills: Ruby, Rails, Sinatra, JavaScript, PostgreSQL, RSpec, HTML and CSS**
 
 ## Skills
 
@@ -20,7 +20,7 @@ I have learnt a number of new technologies in a short period of time at Makers A
 | [Rock Paper Scissors](https://github.com/lcbeh/rps-challenge) | Classic game | Ruby, Sinatra, HTML, CSS | RSpec Capybara|
 | [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|  
 
-For more projects, see my [GitHub](https://github.com/lcbeh)
+For more projects, see my [Website](https://lcbeh.github.io/) and [GitHub](https://github.com/lcbeh)
 
 #### Detail-Orientated
 
@@ -28,7 +28,7 @@ In my role as an architectural designer, I have been involved in coordinating th
 
 #### Individual and Teamwork Skills
 
-I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as project designer in a school project.
+I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as a project designer in a school project.
 
 For the final project at Makers Academy, in a team of five, we directed our learning and strategy at building Ensemble, a music collaboration website in two weeks.
 
@@ -39,7 +39,7 @@ For the final project at Makers Academy, in a team of five, we directed our lear
 
 
 ## Education
-#### Makers Academy / September - December 2016
+#### Makers Academy (September - December 2016)
 
 My interest in digital technology had brought me to join Makers Academy, the leading web bootcamp in Europe which excels at shaping enthusiastic learners into thoughtful developers who care about software craftsmanship. During the last 16 weeks,  we focused on:
 
