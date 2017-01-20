@@ -3,24 +3,30 @@
 
 #### Junior Full Stack Developer
 
-I am a junior developer with a background in architecture. I discovered the joy of coding earlier this year and joined Makers Academy in September to learn how to build software.
+I am a junior developer with a background in architecture. I discovered the joy of coding in summer 2016 and joined Makers Academy in September to learn how to build software. To me, it is very rewarding to see how an idea get transformed into a delightful product.
 
-I can write test-driven web applications and learn new languages and technologies quickly. I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that cares about writing good software and delivering great products.
+At Makers Academy, I have learnt that there is a craft to designing and writing software so that it can be changed easily, well-maintained and be a pleasure for other developers. I want to write good software that can improve peoples' lives in big or small ways.
+
+I am looking for a full stack role where I can develop my programming skills and be a part of an amazing team that creates innovative and meaningful products.
 
 **Tech Skills: Ruby, Rails, Sinatra, JavaScript, PostgreSQL, RSpec, HTML and CSS**
 
 ## Skills
 
-#### Self-driven and Passionate Learner
+#### Self-driven and Initiative
 
-I have learnt a number of new technologies in a short period of time at Makers Academy. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built on my weekends.    
+While at Patel Taylor, I took the initiative to create a guide and summary of important changes in Building Regulations (Part M) for my team in a new housing project. I reviewed majority of our apartment layouts and became a reference point for others in the matter. I was happy to lead and create awareness about the implications of the new regulations in our project and helped other architects to make informed decision in design.
+
+#### Love to Learn
+
+I enjoy learning in different ways - independently, pair-programming, attending workshop and by networking with people who are similar-minded. At Makers Academy, I have learnt a number of new technologies in a short period of time. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built on my weekends.
 
 | Project | Description | Technology | Testing |
 | ---     | ---         | ---        | ---     |
 | [Rock Paper Scissors](https://github.com/lcbeh/rps-challenge) | Classic game | Ruby, Sinatra, HTML, CSS | RSpec Capybara|
-| [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|  
+| [Chitter](https://github.com/lcbeh/chitter-challenge)  | Lightweight Twitter clone  | Ruby, Sinatra, PostgreSQL, DataMapper, HTML, CSS | RSpec, Capybara|
 
-For more projects, see my [Website](https://lcbeh.github.io/) and [GitHub](https://github.com/lcbeh)
+Please see my [Website](https://lcbeh.github.io/) and [GitHub](https://github.com/lcbeh) for more projects.
 
 #### Detail-Orientated
 
@@ -28,9 +34,9 @@ In my role as an architectural designer, I have been involved in coordinating th
 
 #### Individual and Teamwork Skills
 
-I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as a project designer in a school project.
+I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as a project designer for a school project. I often liaised with engineers and other consultants to resolve issues in building projects.
 
-For the final project at Makers Academy, in a team of five, we directed our learning and strategy at building Ensemble, a music collaboration website in two weeks.
+For the final project at Makers Academy, in a team of five, we have directed our learning and strategy at building Ensemble, a music collaboration website. We reached our MVP on the second day, had daily stand-ups and great communication (based on Extreme Programming values) throughout the two weeks.
 
 
 | Project | Description | Code Links | Technology | Testing |
@@ -52,6 +58,8 @@ My interest in digital technology had brought me to join Makers Academy, the lea
 #### University of Brighton (September 2004 - July 2006)
 - First-class honours in BA Interior Architecture (direct entry to 2nd year)
 - Final project received John and Heather Lomax Award for outstanding design scheme which demonstrated flair and imagination
+
+Previously, I also received Best in Interior Design (Award for Excellence) at LimKokWing University in Malaysia.
 
 
 ## Work Experience
