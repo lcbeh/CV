@@ -15,11 +15,11 @@ I am looking for a full stack role where I can develop my programming skills and
 
 #### Self-driven and Initiative
 
-While at Patel Taylor, I took the initiative to create a guide and summary of important changes in Building Regulations (Part M) for my team in a new housing project. I reviewed majority of our apartment layouts and became a reference point for others in the matter. I was happy to lead and create awareness about the implications of the new regulations in our project and helped other architects to make informed decision in design.
+While at Patel Taylor, I took the initiative to create a guide and summary of important changes in Building Regulations (Part M) for my team in a new housing project. I reviewed majority of our apartment layouts and became a reference point for others in the matter. I was happy to lead and create awareness about the subject and helped other architects to make informed decision in design.
 
 #### Love to Learn
 
-I enjoy learning in different ways - independently, pair-programming, attending workshop and by networking with people who are similar-minded. At Makers Academy, I have learnt a number of new technologies in a short period of time. From having no previous experience in coding, I can now build apps with technologies that I am new to. Below are examples of TDD apps built on my weekends.
+I enjoy learning in different ways - independently, pair-programming, attending workshop and by networking with people who are similar-minded. At Makers Academy, I have learnt a number of new technologies in a short period of time. From having no previous experience in coding, I can now build applications with technologies that I am new to. Below are examples of TDD apps built on my weekends.
 
 | Project | Description | Technology | Testing |
 | ---     | ---         | ---        | ---     |
@@ -32,7 +32,7 @@ Please see my [Website](https://lcbeh.github.io/) and [GitHub](https://github.co
 
 In my role as an architectural designer, I have been involved in coordinating the integration of design, structure and services in technical design. Due to my detailed-oriented and investigative nature, I have often spotted potential issues early on, which helped to avoid preventable defects. At Makers Academy, the feedback I have received were that I have strong attention to detail and good at debugging.
 
-#### Individual and Teamwork Skills
+#### Individual, Teamwork and Communication Skills
 
 I can work well as part of a team but also independently. I have many years of experience working as a key team member in delivering residential projects and also as a project designer for a school project. I often liaised with engineers and other consultants to resolve issues in building projects.
 
